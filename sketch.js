@@ -30,9 +30,9 @@ function draw(){
     stone.display();
     plane.display();
    
-    rubber.display();
-    iron.display()  
-    hammer.display();
+    
+    /* Display hammer, iron and rubber */
+   
 
  
 }
